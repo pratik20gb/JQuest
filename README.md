@@ -16,8 +16,7 @@ A simple and responsive quiz application built with **HTML**, **CSS**, and **Van
 ---
 
 ## 📸 Live
-
-![Live](./screenshot.png)  
+https://pratik20gb.github.io/JQuest/
 
 
 ---
